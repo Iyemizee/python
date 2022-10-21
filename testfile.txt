@@ -2,7 +2,11 @@ This is a test file. Another change
 
 Still testing
 
+<<<<<<< HEAD
+Random change
+=======
 
 
 Shakit
 
+>>>>>>> john
